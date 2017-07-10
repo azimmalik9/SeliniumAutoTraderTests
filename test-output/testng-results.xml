@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29575" started-at="2017-07-10T14:25:42Z" finished-at="2017-07-10T14:26:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29575" started-at="2017-07-10T14:25:42Z" finished-at="2017-07-10T14:26:11Z">
+      <class name="autotrader.tests.App">
+        <test-method status="PASS" signature="setup()[pri:0, instance:autotrader.tests.App@1e88b3c]" name="setup" is-config="true" duration-ms="10956" started-at="2017-07-10T15:25:42Z" finished-at="2017-07-10T15:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testCarSearchRadius()[pri:1, instance:autotrader.tests.App@1e88b3c]" name="testCarSearchRadius" duration-ms="185" started-at="2017-07-10T15:25:53Z" finished-at="2017-07-10T15:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCarSearchRadius -->
+        <test-method status="PASS" signature="testTitle()[pri:1, instance:autotrader.tests.App@1e88b3c]" name="testTitle" duration-ms="7" started-at="2017-07-10T15:25:53Z" finished-at="2017-07-10T15:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitle -->
+        <test-method status="PASS" signature="testCarSearchMake()[pri:3, instance:autotrader.tests.App@1e88b3c]" name="testCarSearchMake" duration-ms="454" started-at="2017-07-10T15:25:53Z" finished-at="2017-07-10T15:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCarSearchMake -->
+        <test-method status="PASS" signature="testCarSearchModel()[pri:4, instance:autotrader.tests.App@1e88b3c]" name="testCarSearchModel" duration-ms="507" started-at="2017-07-10T15:25:53Z" finished-at="2017-07-10T15:25:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCarSearchModel -->
+        <test-method status="PASS" signature="testCarSearchMaxPrice()[pri:5, instance:autotrader.tests.App@1e88b3c]" name="testCarSearchMaxPrice" duration-ms="429" started-at="2017-07-10T15:25:54Z" finished-at="2017-07-10T15:25:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCarSearchMaxPrice -->
+        <test-method status="PASS" signature="testCarPostcode()[pri:6, instance:autotrader.tests.App@1e88b3c]" name="testCarPostcode" duration-ms="17012" started-at="2017-07-10T15:25:54Z" finished-at="2017-07-10T15:26:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCarPostcode -->
+      </class> <!-- autotrader.tests.App -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
