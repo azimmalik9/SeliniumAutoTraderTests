@@ -2,10 +2,10 @@
 <testng-results skipped="0" failed="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="autotrader.website.AppTest" duration-ms="2" started-at="2017-07-10T17:19:12Z" finished-at="2017-07-10T17:19:12Z">
+  <suite name="autotrader.website.Tests.AppTest" duration-ms="1" started-at="2017-07-11T11:00:34Z" finished-at="2017-07-11T11:00:34Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="2" started-at="2017-07-10T17:19:12Z" finished-at="2017-07-10T17:19:12Z">
+    <test name="Command line test" duration-ms="1" started-at="2017-07-11T11:00:34Z" finished-at="2017-07-11T11:00:34Z">
     </test> <!-- Command line test -->
-  </suite> <!-- autotrader.website.AppTest -->
+  </suite> <!-- autotrader.website.Tests.AppTest -->
 </testng-results>
